@@ -21,7 +21,7 @@ setup(
     version='1.5.0',
     author='Aaron M. Rosenfeld',
     author_email='aaron.rosenfeld@pennmedicine.upenn.edu',
-    url='https://github.com/arosenfeld/immunedb',
+    url='https://github.com/immunedb/immunedb',
     packages=[
         'immunedb',
         'immunedb.aggregation',
